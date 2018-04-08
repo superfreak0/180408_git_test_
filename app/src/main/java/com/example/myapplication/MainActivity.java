@@ -20,4 +20,5 @@ public class MainActivity extends AppCompatActivity {
     //마스터 커밋 2
     //마스터 커밋 3
     //마스터 커밋 4
+    //마스터 커밋 한줄씩 1
 }
