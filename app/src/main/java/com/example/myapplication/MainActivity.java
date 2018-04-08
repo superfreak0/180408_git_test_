@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     //마스터 커밋
 
+    //마스터 커밋 1
     //마스터 커밋 2
-
 }
