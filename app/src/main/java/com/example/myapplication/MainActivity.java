@@ -13,9 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     //피쳐 브렌치 커밋 1
     //피쳐 브렌치 커밋 2
-<<<<<<< HEAD
+
     //마스터 커밋
-=======
-    //피쳐 브렌치 커밋 3
->>>>>>> feature_x
+
 }
